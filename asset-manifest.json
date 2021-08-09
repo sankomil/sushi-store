@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/sushi-store/static/css/main.61d0a6bd.chunk.css",
-    "main.js": "/sushi-store/static/js/main.2be2eaa7.chunk.js",
-    "main.js.map": "/sushi-store/static/js/main.2be2eaa7.chunk.js.map",
+    "main.js": "/sushi-store/static/js/main.84d273f2.chunk.js",
+    "main.js.map": "/sushi-store/static/js/main.84d273f2.chunk.js.map",
     "runtime-main.js": "/sushi-store/static/js/runtime-main.50a314d1.js",
     "runtime-main.js.map": "/sushi-store/static/js/runtime-main.50a314d1.js.map",
-    "static/js/2.23ae9221.chunk.js": "/sushi-store/static/js/2.23ae9221.chunk.js",
-    "static/js/2.23ae9221.chunk.js.map": "/sushi-store/static/js/2.23ae9221.chunk.js.map",
+    "static/js/2.8ddef7c9.chunk.js": "/sushi-store/static/js/2.8ddef7c9.chunk.js",
+    "static/js/2.8ddef7c9.chunk.js.map": "/sushi-store/static/js/2.8ddef7c9.chunk.js.map",
     "index.html": "/sushi-store/index.html",
     "static/css/main.61d0a6bd.chunk.css.map": "/sushi-store/static/css/main.61d0a6bd.chunk.css.map",
-    "static/js/2.23ae9221.chunk.js.LICENSE.txt": "/sushi-store/static/js/2.23ae9221.chunk.js.LICENSE.txt",
+    "static/js/2.8ddef7c9.chunk.js.LICENSE.txt": "/sushi-store/static/js/2.8ddef7c9.chunk.js.LICENSE.txt",
     "static/media/glitter.aa30f37b.mp4": "/sushi-store/static/media/glitter.aa30f37b.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.50a314d1.js",
-    "static/js/2.23ae9221.chunk.js",
+    "static/js/2.8ddef7c9.chunk.js",
     "static/css/main.61d0a6bd.chunk.css",
-    "static/js/main.2be2eaa7.chunk.js"
+    "static/js/main.84d273f2.chunk.js"
   ]
 }
