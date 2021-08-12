@@ -11,7 +11,7 @@ export const obj2 = {
   description:
     "At Sushi we keep style and wallet in mind. As a result our quality products offer the latest in style while also ensuring they don't burn a hole in your wallet.",
   image: "https://picsum.photos/200/300",
-  dark: true,
+  dark: false,
 };
 
 export const obj3 = {
